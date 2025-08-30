@@ -1,1 +1,1 @@
-## DocumentEx-Documentation-Creator
+## DocumentEx - Documentation Creator
